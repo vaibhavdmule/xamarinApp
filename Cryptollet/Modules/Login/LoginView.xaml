@@ -57,7 +57,7 @@
                             VerticalOptions="EndAndExpand"
                             Command="{Binding LoginCommand}"/>
                     <Button Style="{StaticResource NoBackgroundSmallButton}"
-                            Text="Don't have an account? Sign up"
+                            Text="Don't have an account? Sign upp"
                             Command="{Binding RegisterCommand}"/>
                 </StackLayout>
             </StackLayout>
