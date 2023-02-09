@@ -4,6 +4,8 @@ trigger:
 
 pool:
   vmImage: 'macos-latest'
+  pool:
+  vmImage: 'macos-latest'
 
 variables:
   buildConfiguration: 'Release'
